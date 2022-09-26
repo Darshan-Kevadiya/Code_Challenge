@@ -46,6 +46,10 @@ body{
   border: 6px solid black !important;
   border-radius: 10px !important;
 }
+.card:hover {
+  border: 6px solid rgb(44, 62, 80) !important;
+  background-color:  rgb(168, 179, 187) !important;
+}
 .heading-color{
   color: rgb(44, 62, 80);
 }
